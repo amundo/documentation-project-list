@@ -5,3 +5,7 @@ A simple list of online language documentation projects (by other people), for m
 ## Moro Documentation Project
 
 <http://moro.ucsd.edu/>
+
+## Other lists
+
+<http://www.rnld.org/documentation_projects>
